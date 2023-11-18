@@ -10,7 +10,7 @@ import Contact from "./component/contact"
 import Footer from "./component/footer"
 import Resume from "./component/resume"
 import PortfolioIsotope from "./component/PortfolioIsotope"
-import NavbarLinks from "./component/NavbarLinks"
+import NavbarLinks from "./component/navbarlinks"
 
 
 function App() {
