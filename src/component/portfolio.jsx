@@ -24,7 +24,7 @@ const Portfolio = () => {
     <div className="row portfolio-container" data-aos="fade-up" data-aos-delay={100}>
       <div className="col-lg-2 col-md-6 portfolio-item filter-app">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/ui-ux-1.jpg" className="img-fluid" alt />
+          <img src="public/img/portfolio/ui-ux-1.jpg" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -33,7 +33,7 @@ const Portfolio = () => {
       </div>
       <div className="col-lg-2 col-md-6 portfolio-item filter-web">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/ui-ux-2.jpg" className="img-fluid" alt />
+          <img src="public/img/portfolio/ui-ux-2.jpg" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 3"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -42,7 +42,7 @@ const Portfolio = () => {
       </div>
       <div className="col-lg-2 col-md-6 portfolio-item filter-app">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/frontend.jpg" className="img-fluid" alt />
+          <img src="public/img/portfolio/frontend.jpg" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 2"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
       </div>
       <div className="col-lg-2 col-md-6 portfolio-item filter-web">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/frontend1.jpeg" className="img-fluid" alt />
+          <img src="public/img/portfolio/frontend1.jpeg" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 2"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -60,7 +60,7 @@ const Portfolio = () => {
       </div>
       <div className="col-lg-2 col-md-6 portfolio-item filter-app">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/ui-ux-3.jpg" className="img-fluid" alt />
+          <img src="public/img/portfolio/ui-ux-3.jpg" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 3"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -69,7 +69,7 @@ const Portfolio = () => {
       </div>
       <div className="col-lg-2 col-md-6 portfolio-item filter-web">
         <div className="portfolio-wrap">
-          <img src="src/assets/img/portfolio/frontend2.webp" className="img-fluid" alt />
+          <img src="public/img/portfolio/frontend2.webp" className="img-fluid" alt />
           <div className="portfolio-links">
             <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 3"><i className="bx bx-plus" /></a>
             <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
