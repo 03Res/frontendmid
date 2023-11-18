@@ -38,7 +38,7 @@ const About = () => {
   <div className="row">
     <div className="col-lg-4" data-aos="fade-right">
       <img
-        src="public/img/res.jpg"
+        src= {"public/img/res.jpg"}
         className="img-fluid"
         alt
 
