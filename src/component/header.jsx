@@ -8,7 +8,7 @@ const Header = () => {
         <header id="header">
         <div className="d-flex flex-column">
             <div className="profile">
-            <img src={"public/img/res.jpg"} alt className="img-fluid rounded-circle" />
+            <img src={'/img/res.jpg'} alt className="img-fluid rounded-circle" />
             <h1 className="text-light"><a href="index.html">Quaresma soruday</a></h1>
             <div className="social-links mt-3 text-center">
             <a href="https://www.instagram.com/" className="instagram" target="_blank" rel="noreferrer"><i className="bi bi-instagram" /></a>
